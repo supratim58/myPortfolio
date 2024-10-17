@@ -1,6 +1,6 @@
 //var youtube = "#";
 //var twitter = "#";
-var password = "sonu";
+var password = "abcd";
 var linkedin = "https://www.linkedin.com/in/supratim-haldar/";
 var instagram = "https://www.instagram.com/supratim_haldar001/";
 var github = "https://github.com/supratim58/";
